@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CuryMean</string>
+    <string name="fb_login_protocol_scheme">fb1234567</string>
 </resources>
